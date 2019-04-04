@@ -7,3 +7,11 @@
 # Leadership
 - skill: Leadership
   description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+  
+  # Teamplayer
+- skill: Teamplayer
+  description: Contibutor in the team. who can work together with other fellow associates to complete the work.
+  
+  # Tester
+- skill: Tester
+  description: Test the product developed by the team and make sure the product is error free and good quality software.
